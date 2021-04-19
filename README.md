@@ -1,8 +1,8 @@
-##Click the link given below and write your's todo there!!!
+## Click the link given below and write your's todo there!!!
 
 https://letslisttodo.netlify.app/
 
-##Thank You..
+## Thank You..
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
